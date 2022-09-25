@@ -1,13 +1,3 @@
-# Sample Hardhat Project
+# Buildspace's "Build a Web3 App with Solidity + Ethereum Smart Contracts" tutorial
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
-
-Try running some of the following tasks:
-
-```shell
-npx hardhat help
-npx hardhat test
-REPORT_GAS=true npx hardhat test
-npx hardhat node
-npx hardhat run scripts/deploy.js
-```
+https://buildspace.so/p/build-solidity-web3-app
